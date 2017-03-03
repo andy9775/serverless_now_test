@@ -1,0 +1,12 @@
+{
+  "name": "static_hello",
+  "version": "0.1.0",
+  "description": "Simple hello world now app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --harmony-async-await index"
+  },
+  "author": "Andy Chrzaszcz <andy9775@gmail.com> (andyc.io)",
+  "license": "ISC"
+}
